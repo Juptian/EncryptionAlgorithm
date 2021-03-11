@@ -1,5 +1,5 @@
 # EncryptionAlgorithm
-A 128-bit encyption algorithm that I started because I was bored targetted at [AES standards]( https://en.wikipedia.org/wiki/Advanced_Encryption_Standard#:~:text=The%20Advanced%20Encryption%20Standard%20(AES,Technology%20(NIST)%20in%202001. ). I'm not certain as to how it'll go, but let's find out shall we?
+A 128-bit encyption algorithm that I started because I was bored targetted at [AES standards]( https://en.wikipedia.org/wiki/Advanced_Encryption_Standard#:~:text=The%20Advanced%20Encryption%20Standard%20(AES,Technology%20(NIST)%20in%202001. ) Targetted towards Windows 10 Build 16299 or newer. I'm not certain as to how it'll go, but let's find out shall we?
 
 ## Contributing
 
